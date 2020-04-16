@@ -30,6 +30,9 @@
     "ref-array": "github:lxe/ref-array#node-12",
     "ref-struct": "github:lxe/ref-struct#node-12"
   },
+  "devDependencies": {
+    "typescript": "^3.1.1"
+  },
   "scripts": {
     "build": "rm -rf dist && tsc -p tsconfig.build.json",
     "watch": "tsc -p tsconfig.build.json --watch",
