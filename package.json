@@ -26,7 +26,7 @@
     "@types/ref-array": "^0.0.28",
     "@types/ref-struct": "^0.0.29",
     "ffi": "github:lxe/node-ffi#node-12",
-    "ref": "github:lxe/ref#node-12",
+    "ref": "github:fishg/ref#node-12",
     "ref-array": "github:lxe/ref-array#node-12",
     "ref-struct": "github:lxe/ref-struct#node-12"
   },
